@@ -37,6 +37,7 @@ This is the end result of always picking the best missions to do anyways, so you
 
 ### Managers
 ![Managers](https://github.com/horologix/ssminmax/blob/master/img/managersets.png)
+
 It's recommended you have at least 5 manager sets for efficiency.
 You will need sets for Idle, PvE, Farming, Selling, and Dispatch.
 As a side note, because Santa Selena will be switched in whenever using actives, Sigmund will always use Santa Selena's active.
