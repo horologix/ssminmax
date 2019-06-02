@@ -8,14 +8,18 @@ Ideally you farm ~~4~~2 st mission matches (up to 5-2), and you farm the highest
 Clovers are important to maintain a high drop rate, as is Jiho ace as the legend with the highest potential clover count.
 It's also important to include a frontline striker as a fallback in case the ball slips from your mid striker.
 #### Example 5-1 Formation
+![5-1 Formation](https://github.com/horologix/ssminmax/blob/master/img/formation5-1.png)
 #### Example 4-3 Formation
+![4-3 Formation](https://github.com/horologix/ssminmax/blob/master/img/formation4-3.png)
 
 ### CoD
+![CoD Formation](https://github.com/horologix/ssminmax/blob/master/img/formationcod.png)
 A CoD ohko formation should be able to clear 45 levels on auto (blocked by 46's Nono).
 Alternatively a formation with a gk can potentially go much higher, but will result in a lower score.
 CoD is farmable in this way, clearing 45 floors for every reset.
 
 ### DBoss
+![DBoss Formation](https://github.com/horologix/ssminmax/blob/master/img/formationdboss.png)
 DBoss matches can be played on auto.
 Other people are quite helpful with DBoss, which means you don't necessarily have to solo matches.
 A successful auto formation consists of numerous assists which constantly cycle the ball front for shots.
@@ -27,8 +31,10 @@ All of these matches are played on auto so make sure they play effectively under
 
 ### Dispatch
 You can use the same 4 dispatch slots for all your missions while the other 5 dispatch slots can be used to ban out missions with poor rewards.
+This is the end result of always picking the best missions to do anyways, so you might as well reroll the worst missions to not do instead.
 
 ### Managers
+![Managers](https://github.com/horologix/ssminmax/blob/master/img/managersets.png)
 It's recommended you have at least 5 manager sets for efficiency.
 You will need sets for Idle, PvE, Farming, Selling, and Dispatch.
 As a side note, because Santa Selena will be switched in whenever using actives, Sigmund will always use Santa Selena's active.
