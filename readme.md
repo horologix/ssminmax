@@ -14,12 +14,14 @@ It's also important to include a frontline striker as a fallback in case the bal
 
 ### CoD
 ![CoD Formation](https://github.com/horologix/ssminmax/blob/master/img/formationcod.png)
+
 A CoD ohko formation should be able to clear 45 levels on auto (blocked by 46's Nono).
 Alternatively a formation with a gk can potentially go much higher, but will result in a lower score.
 CoD is farmable in this way, clearing 45 floors for every reset.
 
 ### DBoss
 ![DBoss Formation](https://github.com/horologix/ssminmax/blob/master/img/formationdboss.png)
+
 DBoss matches can be played on auto.
 Other people are quite helpful with DBoss, which means you don't necessarily have to solo matches.
 A successful auto formation consists of numerous assists which constantly cycle the ball front for shots.
